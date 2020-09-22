@@ -1,2 +1,4 @@
 <?php
-phpinfo();
+var_dump(['test']);
+var_dump(true);
+
